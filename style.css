@@ -2,13 +2,18 @@ body {
     align-items: center;
     text-align: center;
     font-family: Calibri;
+    background-color: black;
+    color: white;
 }
 
 .input #link #scribd_original_link {
     width: 500px;
     height: 30px;
-    border: 2px solid black;
+    border: 2px solid white;
+    background-color: black;
     border-radius: 25px;
+    color: white;
+    padding-left: 25px;
 }
 
 .input #submit {
